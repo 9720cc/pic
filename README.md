@@ -1,2 +1,2 @@
 # pic
-save blog images
+保存代码运行的结果截图
